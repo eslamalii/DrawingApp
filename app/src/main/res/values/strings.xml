@@ -16,5 +16,5 @@
     <string name="ArrowShape">DRAW_AN_ARROW_SHAPE</string>
     <string name="RectangleShape">DRAW_A_RECTANGLE_SHAPE</string>
     <string name="CircleShape">DRAW_A_CIRCLE_SHAPE</string>
-    
+
 </resources>
