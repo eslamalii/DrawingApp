@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Drawing app</string>
+    <string name="pen">Pen</string>
+    <string name="arrow">Arrow</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="circle">Circle</string>
+    <string name="colors">Colors</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="black">Black</string>
+    <string name="image">image</string>
+
+
+    <string name="PenShape">DRAW_A_STROKE_SHAPE</string>
+    <string name="ArrowShape">DRAW_AN_ARROW_SHAPE</string>
+    <string name="RectangleShape">DRAW_A_RECTANGLE_SHAPE</string>
+    <string name="CircleShape">DRAW_A_CIRCLE_SHAPE</string>
+    
+</resources>
